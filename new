@@ -1,13 +1,39 @@
 <!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="utf-8">
-		<title></title>
-	</head>
-	<body>
-		<h1>이질성과 그 비평적 시공간</h1>
-		<h1>Hetergeneity and its Critical Time and Space</h1>
-			
-	</body>
-</html>
+<head>
+  <meta charset="UTF-8">
+  <title>백 투 더 퓨처</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: sans-serif;
+      background-color: white;
+      color: black;
+    }
 
+    div {
+      width: 1640px;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 23px;
+    }
+
+    h1 {
+      font-size: 37pt;
+      font-weight: bold;
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+  <div>
+    <h1 style="float: left;">백 투 더 퓨처:</h1>
+    <h1 style="float: right;">한국 현대미술의 동시대성 탐험기</h1>
+    <div style="clear: both;">
+  </div>
+    
+    <h1>이질성과 그 비평적 시공간</h1>
+		<h1>Hetergeneity and its Critical Time and Space</h1>
+		<src img="
+</body>
+</html>
